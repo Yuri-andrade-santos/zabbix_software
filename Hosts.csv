@@ -1,0 +1,2 @@
+hostname,ip,groupid,templateid,port
+host-example ,1.1.1.1,1,1234,10050

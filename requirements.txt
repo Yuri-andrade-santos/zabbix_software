@@ -1,0 +1,6 @@
+customtkinter
+tkinterdnd2
+pyzabbix
+Pillow
+requests
+matplotlib
